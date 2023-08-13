@@ -1,0 +1,14 @@
+h1 {
+color: blue;
+text-align: center;
+}
+
+th {
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+td {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
